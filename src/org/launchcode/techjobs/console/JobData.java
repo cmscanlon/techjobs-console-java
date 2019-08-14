@@ -21,6 +21,8 @@ public class JobData {
 
     private static ArrayList<HashMap<String, String>> allJobs;
 
+    public static
+
     /**
      * Fetch list of all values from loaded data,
      * without duplicates, for a given column.
